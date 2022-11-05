@@ -12,7 +12,7 @@ This is a project where I display my knowledge of the new React that uses Contex
 
 ## Design decisions
 
-The game is written using Hooks (New React).
+The app is written using Hooks (New React).
 
 ## Known errors
 
