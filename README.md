@@ -8,11 +8,11 @@ Program can be built if necessary by running the command npm run build
 
 ## Project Background
 
-This is a project where I display my knowledge of the new React that uses Contexts, Reducers and Material.ui. It is a simple app where a book title and writer can be added from a form page and those plus stored books are displayed on another. The Book List utilizes window.localStorage and Material.ui theming.<br />
+This is a project where I display my knowledge of the new React that uses Contexts, Reducers and Material.ui. It is a simple app where a book title and writer can be added from a form page and those plus stored books are displayed on another.<br />
 
 ## Design decisions
 
-The app is written using Hooks (New React).
+The app is written using Hooks (New React) and it utilizes window.localStorage and Material.ui theming.
 
 ## Known errors
 
